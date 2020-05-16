@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Express API Template with Mongoose",
   "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/raghav-misra/express-mongo-api-template.git"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "nodemon index.js"
